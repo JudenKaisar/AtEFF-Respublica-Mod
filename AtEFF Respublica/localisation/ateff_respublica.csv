@@ -1,0 +1,6 @@
+playable_republic_government;Republic;;;;;;;;;x
+playable_republic_government_desc;Popular Sovreignty is the foundation of the Republican Realm, all leaders are elected by the citizens of their constituency and can only rule for a few years at a time. It is necessary for a ruler to maintain their popularity or else they may just see themselves voted out of office.;;;;;;;;;x
+republic_government;Municipal;;;;;;;;;x
+gov_constitutional_republic;Democratic Republic;;;;;;;;;x
+gov_imperial_republic;Totalitarian Dictatorship;;;;;;;;;x
+gov_free_republic;Free Republic;;;;;;;;;x

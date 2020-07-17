@@ -1,0 +1,8 @@
+establish_democracy;Establish Democracy;;;;;;;;;;;;;x
+establish_democracy_desc;It is time to hold free and fair elections, long live our democracy!;;;;;;;;;;;;;x
+establish_republic;Establish a Republic;;;;;;;;;;;;;x
+establish_republic_desc;For too long feudal lords have kept the people down, the time has come to cast off such class structures and work for the prosperity of all instead of the prosperity of the few! Long live our free republic!;;;;;;;;;;;;;x
+
+bill_of_rights_enabled;Open Bill of Rights interface;;;;;;;;;;;;;x
+bill_of_rights_enabled_desc;Most republics follow a modified version of the antedeluvian constitution of the United States, unchanged throughout the centuries was the concept of a bill of rights, ten "Amendments" to every constitution in the known world. As a republican ruler in times of exeptional circumstance or danger, these rights can be suspended until further notice.;;;;;;;;;;;;;x
+bill_of_rights_disabled;Close Bill of Rights interface;;;;;;;;;;;;;x

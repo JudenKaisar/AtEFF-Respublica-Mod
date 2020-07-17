@@ -1,0 +1,29 @@
+local_term_length;Local Office Term Length;;;;;;;;;;;;;x
+local_term_length_desc;Laws that determine the term lenght of officers of the local government.;;;;;;;;;;;;;x
+local_term_length_0;Annual;;;;;;;;;;;;;x
+local_term_length_0_option;Annual Elections;;;;;;;;;;;;;x
+local_term_length_0_desc;Local elections are held every year.;;;;;;;;;;;;;x
+local_term_length_1;Quadrennial;;;;;;;;;;;;;x
+local_term_length_1_option;Quadrennial Elections;;;;;;;;;;;;;x
+local_term_length_1_desc;Local elections are held every four years.;;;;;;;;;;;;;x
+local_term_length_2;Sexennial;;;;;;;;;;;;;x
+local_term_length_2_option;Sexennial Elections;;;;;;;;;;;;;x
+local_term_length_2_desc;Local elections are held every six years.;;;;;;;;;;;;;x
+local_term_length_3;Decennial;;;;;;;;;;;;;x
+local_term_length_3_option;Decennial Elections;;;;;;;;;;;;;x
+local_term_length_3_desc;Local elections are held every ten years.;;;;;;;;;;;;;x
+
+crown_term_length;Federal Office Term Length;;;;;;;;;;;;;x
+crown_term_length_desc;Laws that determine the term lenght of officers of the State and Federal Government.;;;;;;;;;;;;;x
+crown_term_length_0;Annual;;;;;;;;;;;;;x
+crown_term_length_0_option;Annual Elections;;;;;;;;;;;;;x
+crown_term_length_0_desc;Federal elections are held every year.;;;;;;;;;;;;;x
+crown_term_length_1;Quadrennial;;;;;;;;;;;;;x
+crown_term_length_1_option;Quadrennial Elections;;;;;;;;;;;;;x
+crown_term_length_1_desc;Federal Elections are held every four years.;;;;;;;;;;;;;x
+crown_term_length_2;Sexennial;;;;;;;;;;;;;x
+crown_term_length_2_option;Sexennial Elections;;;;;;;;;;;;;x
+crown_term_length_2_desc;Federal Elections are held every six years;;;;;;;;;;;;;x
+crown_term_length_3;Decennial;;;;;;;;;;;;;x
+crown_term_length_3_option;Decennial Elections;;;;;;;;;;;;;x
+crown_term_length_3_desc;Federal Elections are held every ten years.;;;;;;;;;;;;;x

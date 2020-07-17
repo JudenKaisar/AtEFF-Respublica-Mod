@@ -1,0 +1,21 @@
+city_baron;Mayor;;;;;;;;;;;;;x
+city_count;County Executive;Seigneur-Maire;Oberbürgermeister;;Gran Alcalde;;;;;;;;;x
+city_count_female;Executive;;;;;;;;;;;;;x
+city_duke;Representative;;;;;;;;;;;;;x
+city_duke_female;Representative;;;;;;;;;;;;;x
+city_king;Governor;;;;;;;;;;;;;x
+city_king_female;Governor;;;;;;;;;;;;;x
+city_emperor;President;;;;;;;;;;;;;x
+city_emperor_female;President;;;;;;;;;;;;;x
+
+city_barony_of;City of;;;;;;;;;;;;;x
+city_county_of;County of;;;;;;;;;;;;;x
+city_duchy_of;District of;;;;;;;;;;;;;x
+city_kingdom_of;State of;;;;;;;;;;;;;x
+city_empire_of;United States of;;;;;;;;;;;;;x
+
+city_barony;City;;;;;;;;;;;;;x
+city_county;County;;;;;;;;;;;;;x
+city_duchy;District;;;;;;;;;;;;;x
+city_kingdom;State;;;;;;;;;;;;;x
+city_empire;United States;;;;;;;;;;;;;x

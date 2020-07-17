@@ -1,0 +1,40 @@
+decisions = {
+
+establish_democracy = {
+  potential = {
+    ai = no
+	government = playable_republic_government 
+  }
+  allow = {
+    prisoner = no
+ 
+  }
+  effect = {
+	succession = succ_democratic_elective
+  }
+}
+
+establish_republic = {
+  potential = {
+    ai = no
+	NOT = { government = playable_republic_government }
+	NOT = { succession = succ_democratic_elective}
+  }
+  
+  allow = {
+    prisoner = no
+    prestige = 1500
+	wealth = 500
+ 
+  }
+  effect = {
+  set_government = playable_republic_government
+  prestige = -1500
+  wealth = -500
+  }
+}
+}
+
+		
+
+	

@@ -1,0 +1,10 @@
+spriteTypes = {
+  spriteType = {
+    name = "GFX_establish_democracy"
+    texturefile = "gfx\\interface\\decision_icon_cheats.dds"
+  }
+  spriteType = {
+    name = "GFX_establish_republic"
+    texturefile = "gfx\\interface\\decision_icon_cheats.dds"
+  }
+}
