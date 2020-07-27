@@ -1,0 +1,14 @@
+c_landless_t = {
+	color={ 0 0 0 }
+
+	allow = {
+		always = no
+	}
+
+	title = "rtp_null_m"
+	title_prefix = "rtp_null_f"
+	landless = yes
+	primary = no
+	can_be_claimed = no
+	can_be_usurped = no
+}

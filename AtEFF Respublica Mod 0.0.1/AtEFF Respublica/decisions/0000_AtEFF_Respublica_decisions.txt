@@ -1,0 +1,60 @@
+decisions = {
+
+
+establish_republic = {
+  potential = {
+    ai = no
+	NOT = { government = playable_republic_government }
+	NOT = { succession = succ_democratic_elective}
+   }
+  
+  allow = {
+    prisoner = no
+	is_incapable = no
+	is_adult = yes
+	war = no
+    prestige = 1500
+	wealth = 500
+	}
+	
+  effect = {
+    prestige = -1500
+	wealth = -500
+	set_government_type = playable_republic_government
+	primary_title = {
+		add_law = succ_democratic_elective
+	}
+	}
+}
+gain_family_estate = {
+	potential = {
+	government = playable_republic_government
+	ai = no
+	NOT = { title = c_landless_t }
+	}
+	allow = {
+	wealth = 5
+	}
+	effect = {
+	grant_title = c_landless_t
+	}
+}
+
+hold_elections = {
+	potential = {
+	government = playable_republic_government
+	ai = no
+	}
+	allow = {
+	wealth = 10
+	}
+	effect = {
+	wealth = -10
+	character_event = { id = demo.1000 }
+	}
+}
+}
+
+		
+
+	
